@@ -12,7 +12,7 @@ export default function Article() {
       <article className="article">
         <img
           className="article-img"
-          src="/public/images/drawers.jpg"
+          src="images/drawers.jpg"
           alt="drawer-img"
         />
 
@@ -42,7 +42,7 @@ export default function Article() {
           <article className="article--user_info">
             <div>
               <img
-                src="/public/images/avatar-michelle.jpg"
+                src="images/avatar-michelle.jpg"
                 alt="avatar-michelle"
                 className="user--avatar"
               />
@@ -54,7 +54,7 @@ export default function Article() {
             </div>
 
             <img
-              src="/public/images/icon-share.svg"
+              src="images/icon-share.svg"
               alt=""
               className="arrow"
               onClick={handleClick}
