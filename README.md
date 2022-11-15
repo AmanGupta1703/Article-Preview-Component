@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AmanGupta1703/Article-Preview-Component]
+- Live Site URL: [https://github.io/AmanGupta1703/Article-Preview-Component]
 
 ## My process
 
@@ -56,5 +56,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Article Page](https://github.com/AmanGupta1703/Article-Preview-Component)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
